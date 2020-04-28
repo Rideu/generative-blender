@@ -2,6 +2,7 @@
 
 Various generative scenes purely done with shaders, composers and generative modifers in Blender 2.8
 
+Visit [this](https://github.com/Rideu/generative-blender/releases) page to get the latest release.
 ## Scenes
  
 | Scene | Preview |
